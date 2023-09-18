@@ -12,4 +12,4 @@ function getGradeFromPoints(points) {
 }
 
 const grade = getGradeFromPoints(90);
-console.log(Grade, "should be A");
+console.log(grade, "should be A");
