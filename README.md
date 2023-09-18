@@ -17,7 +17,7 @@ When you encounter a bug, use these strategies:
 
 - **Confirm assumptions** - Verify if something is actually the problem before moving on.
 
-- **Read errors closely** - The error message often describes the exact issue. Google it! 
+- **Read errors closely** - The error message often describes the exact issue. Google it!
 
 - **Use debugging tools** - Leverage the browser dev tools, console, and debugger.
 
